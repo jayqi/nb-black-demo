@@ -1,0 +1,5 @@
+nb-black
+nbautoexport
+notebook
+jupyterlab
+matplotlib

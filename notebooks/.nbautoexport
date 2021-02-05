@@ -1,0 +1,12 @@
+{
+  "export_formats": [
+    "html",
+    "script"
+  ],
+  "organize_by": "extension",
+  "clean": {
+    "exclude": [
+      "json/*"
+    ]
+  }
+}
